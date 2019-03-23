@@ -1,2 +1,2 @@
-# Deep-Learning
-Berisikan tentang mata kuliah Deep Learning
+# Deep Learning
+Berisikan tentang materi mata kuliah Deep Learning
